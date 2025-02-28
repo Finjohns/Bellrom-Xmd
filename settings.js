@@ -47,7 +47,7 @@ global.autorecordtype = process.env.AUTO_RECORDTYPE || 'false'
 global.mess = {
 	limit: 'Your limit is up <\>',
 	nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable',
-	owner: 'Bellah Xmd owner only<\>',
+	owner: 'Bellrom Xmd owner or Jinwiil only<\>',
     admin: 'Bot is not admin<\>',
     group: 'feature for group only<\>',
     done: 'Done ✓',
