@@ -1,1 +1,88 @@
+{
+  "name": "Bellah-Xmd",
+  "version": "1.0.0",
+  "description": "WhatsApp bot",
+  "logo": "https://i.imgur.com/yZN5Ynv.jpeg",
+  "keywords": ["whatsapp", "bot", "md", "multi-device"],
+  "repository": "https://github.com/xxx/xxx",
+  "stack": "container",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "env": {
+    "SESSION_ID": {
+      "description": "Enter your session id",
+      "value": "",
+      "required": true
+},
+  "BOT_NAME": {
+      "description": "Enter bot name of your choice here",
+      "value": "Bellah Xmd",
+      "required": false
+    },
+  "OWNER_NUMBER": {
+      "description": "Enter your whatsapp number here",
+      "value": "254104245659",
+      "required": true
+    },
+  "TYPE_MENU": {
+      "description": "Enter menu of your type,,menu types are V1-V8",
+      "value": "V3",
+      "required": false
+    },
+  "AUTOSW_VIEW": {
+      "description": "Type true if you want your bot to view status updates or else type false",
+      "value": "",
+      "required": false
+    },
+  "WELCOME": {
+      "description": "Type true if you want your bot to send welcome or goodbye messages in groups or else type fals",
+      "value": "",
+      "required": false
+    },
+  "ANTI_CALL": {
+      "description": "Type true if you want bot to reject incoming calls or else type false",
+      "value": "",
+      "required": false
+    },
+  "AUTO_BLOCK": {
+      "description": "Type true if you want bot to block unknown numbers if else type false",
+      "value": "",
+      "required": false
+    },
+  "ANTIFOREIGN_NUMBER": {
+      "description": "Enter antiforeignnumbers with country codes if you don't want antiforeign numbers",
+      "value": "234,263",
+      "required": false 
+    },
+  "BOT_PREFIX": {
+      "description": "Enter bot prefix of your choice if else leave blank for multiprefixes",
+      "value": ".",
+      "required": true
+    },
+    "AUTO_RECORD": {
+      "description": "type true if you want bot to indicate recording or else type false",
+      "value": "false",
+      "required": false
+    }
+    },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ]
+}
+
+    
+    
+
 
