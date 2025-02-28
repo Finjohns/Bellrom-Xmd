@@ -1,10 +1,10 @@
 {
-  "name": "Bellah-Xmd",
+  "name": "Bellrom-Xmd",
   "version": "1.0.0",
   "description": "WhatsApp bot",
   "logo": "https://i.imgur.com/yZN5Ynv.jpeg",
   "keywords": ["whatsapp", "bot", "md", "multi-device"],
-  "repository": "https://github.com/xxx/xxx",
+  "repository": "https://github.com/Finjohns/Bellrom-Xmd",
   "stack": "container",
   "scripts": {
     "start": "node index.js"
@@ -17,12 +17,12 @@
 },
   "BOT_NAME": {
       "description": "Enter bot name of your choice here",
-      "value": "Bellah Xmd",
+      "value": "Bellrom Xmd",
       "required": false
     },
   "OWNER_NUMBER": {
       "description": "Enter your whatsapp number here",
-      "value": "254104245659",
+      "value": "254769365617",
       "required": true
     },
   "TYPE_MENU": {
