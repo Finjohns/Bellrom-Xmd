@@ -1,27 +1,27 @@
-# BELLAH-X MD
+# BELLROM-XMD
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +BELLAH-XMD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+GIDDY+TENNOR;RELEASED+12.12.2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +BELLROM-XMD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+JINWIIL+ONGINJO;RELEASED+12.12.2024" alt="Typing SVG" /></a>
 
 
 
 
 <p align="center">
-<a href="https://github.com/Tennor-modz"><img title="Author" src="https://i.imgur.com/Q3XajKe.jpeg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Finjohns"><img title="Author" src="https://i.imgur.com/Q3XajKe.jpeg?style=for-the-badge&logo=github"></a>
 
 
   <p align="center">
-<a href="https://github.com/Tennor-modz/followers"><img title="Followers" src="https://img.shields.io/github/followers/Tennor-modz?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tennor-modz/Bellah-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tennor-modz/Bellah-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tennor-modz/Bellah-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Tennor-modz/Bellah-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tennor-modz/Bellah-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/Tennor-modz/Bellah-XMD?style=flat-square&color=green"></a>
-<a href="https://github.com/Tennor-modz/Bellah-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Finjohns/followers"><img title="Followers" src="https://img.shields.io/github/followers/Finjohns?color=blue&style=flat-square"></a>
+<a href="https://github.com/Tennor-modz/Bellrom-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Finjohns/Bellrom-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Finjohns/Bellrom-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Finjohns/Bellrom-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Finjohns/Bellrom-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/Finjohns/Bellrom-XMD?style=flat-square&color=green"></a>
+<a href="https://github.com/Finjohns/Bellrom-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
    
 <p align="center">
 
-  <a aria-label="Join our chat group for updates" href="https://chat.whatsapp.com/CzFlFQrkdzxFw0pxCBYM7H" target="_blank">
+  <a aria-label="Join our chat group for updates" href="" target="_blank">
     <img alt="telegram" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
  
