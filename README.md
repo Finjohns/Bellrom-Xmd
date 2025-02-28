@@ -11,7 +11,7 @@
 
   <p align="center">
 <a href="https://github.com/Finjohns/followers"><img title="Followers" src="https://img.shields.io/github/followers/Finjohns?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tennor-modz/Bellrom-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Finjohns/Bellrom-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Finjohns/Bellrom-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Finjohns/Bellrom-XMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Finjohns/Bellrom-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Finjohns/Bellrom-XMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Finjohns/Bellrom-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/Finjohns/Bellrom-XMD?style=flat-square&color=green"></a>
 <a href="https://github.com/Finjohns/Bellrom-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
@@ -21,7 +21,7 @@
    
 <p align="center">
 
-  <a aria-label="Join our chat group for updates" href="" target="_blank">
+  <a aria-label="Join our chat group for updates" href="https://chat.whatsapp.com/EqDVC9BGF9k86ZMHdjxY0d" target="_blank">
     <img alt="telegram" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
  
@@ -29,12 +29,12 @@
 ---
 
 
- <p align="center"><img src="https://profile-counter.glitch.me/{Bellah-XMD}/count.svg" alt="Tennor-modz :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Tennor-modz}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{Bellrom-XMD}/count.svg" alt="Finjohns :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Finjohns}/count.svg" /></p>
 
 
-  <p align="center"> Meet bellah-Xmd, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. bellah_xmd whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
+  <p align="center"> Meet bellrom-Xmd, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. bellrom_xmd whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
   
-  <a href="https://github.com/Tennor-modz/SUHAIL-XMD/fork"><img title="Bellah-XMD" src="https://img.shields.io/badge/FORK-Bellah XMD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Finjohns/Bellrom-Xmd/fork"><img title="Bellrom-XMD" src="https://img.shields.io/badge/FORK-Bellrom XMD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
 
 
  
@@ -47,7 +47,7 @@
 -
 
 
-2.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/Tennor-modz/bellah-XMD/fork)***
+2.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/Finjohns/bellrom-XMD/fork)***
 
    #### DEPLOY TO HEROKU 
 **1. If You Don't Have An Account On Heroku**
@@ -57,7 +57,7 @@
 
 **2. If You Have a Heroku Account**
     <br>
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FTennor-modz%2FBellah-Xmd%3Ftab%3Dreadme-ov-file"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FFinjohns%2FBellrom-Xmd%3Ftab%3Dreadme-ov-file"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ***
@@ -104,7 +104,7 @@
 **(2) DAKI HOSTING PANEL(DISCORD) DEPLOYMENT**
 <details>
 <summary>TAP TO OPEN</summary>
-<a href="https://www.mediafire.com/file/qj3faj4ghgxkl96/BELLAH_XMD%25282%2529.zip/file"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+<a href="https://www.mediafire.com/file/qj3faj4ghgxkl96/BELLROM_XMD%25282%2529.zip/file"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
   
 <a href="https://daki.cc/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
 </details
